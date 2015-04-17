@@ -8,7 +8,7 @@ var bio = {
       "twitter": "N/A",
       "location": "McLean, VA"
  },
-  "welcomeMessage": "Hello! Thanks for stop by :)",
+  "welcomeMessage": "Hello! Thanks for stopping by :)",
   "skills": ["HTML", "Twitter Bootstrap", "jQuery", "AngularJS", "D3", "Leaflet"],
   "bioPic": "images/fry.jpg"
 }
@@ -145,7 +145,7 @@ var projects ={
     {
         "title": "Interactive Resume",
         "dates": "2015",
-        "description": "An interactive resume that includes a google map of place I've lived and worked."
+        "description": "An interactive resume that includes a google map of places I've lived and worked."
     },
     {
         "title": "ParkEasy",
